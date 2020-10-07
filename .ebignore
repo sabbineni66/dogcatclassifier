@@ -1,0 +1,9 @@
+__pycache__/
+.git/
+.idea/
+app.py
+cat.jpg
+clientApp.py
+manifest.yml
+Procfile
+runtime.txt
